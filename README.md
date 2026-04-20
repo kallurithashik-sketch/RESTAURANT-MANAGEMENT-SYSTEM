@@ -1,10 +1,10 @@
-# 🍽 Restaurant Management System (C)
+#  Restaurant Management System (C)
 
 A simple console-based Restaurant Management System developed in C language that allows users to view menu items, place orders, generate bills, and save bills to a file.
 
 ---
 
-## 📌 Features
+##  Features
 
 - View restaurant menu  
 - Add customer orders  
@@ -20,7 +20,7 @@ A simple console-based Restaurant Management System developed in C language that
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - C Programming
 - GCC Compiler
@@ -28,7 +28,7 @@ A simple console-based Restaurant Management System developed in C language that
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 Restaurant-Management-System/
@@ -40,7 +40,7 @@ Restaurant-Management-System/
 
 ---
 
-## 📋 Menu
+##  Menu
 
 | ID | Item | Price |
 |----|------|-------|
@@ -52,7 +52,7 @@ Restaurant-Management-System/
 
 ---
 
-## ▶ How to Run
+## How to Run
 
 ### Compile
 ```bash
@@ -66,27 +66,9 @@ gcc restaurant.c -o restaurant
 
 ---
 
-## 📸 Output Screenshots
 
-### Main Menu
-![Main Menu](screenshots/menu.png)
 
----
 
-### Display Menu
-![Display Menu](screenshots/display-menu.png)
-
----
-
-### Add Order
-![Add Order](screenshots/add-order.png)
-
----
-
-### Bill Output
-![Bill Output](screenshots/bill.png)
-
----
 
 ##  Sample Output
 
